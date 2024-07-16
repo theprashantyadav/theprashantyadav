@@ -37,7 +37,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/theprashantyadav/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theprashantyadav" height="30" width="40" /></a>
-<a href="https://www.facebook.com/prashantyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prashantyadav.prashantyadav.18488169?mibextid=ZbWKwL" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prashantyadav.prashantyadav.18488169?mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/prashantyadav.prashantyadav.18488169?mibextid=ZbWKwL" height="30" width="40" /></a>
 <a href="https://medium.com/@theprashantyadav7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@theprashantyadav7" height="30" width="40" /></a>
   <a href="mailto:theprashantyadav7@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
